@@ -58,10 +58,5 @@ O-Market features include:
 4. O-Market as viewed from a mobile phone
    
     ![Screenshot (62)](https://github.com/MunBrian/online-marketplace/assets/63002200/a5585ea9-0186-4670-a304-2b048a64a829)
-   
-
-## Contact
-If you have any questions or feedback about this project you can contact me via my email address 
-[bk.mungai254@gmail.com](mailto:bk.mungai254@gmail.com)
 
 
