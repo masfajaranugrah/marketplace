@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="bg-white dark:bg-gray-800 border-t-2 p-2 bottom-0 md:h-40 flex flex-col items-center justify-center">
       <span className="text-lg md:mb-6  mb-4 block font-medium text-gray-800 dark:text-gray-400">
-        Made by Mungai
+        @fajar anugrah
       </span>
       <div className="flex space-x-6 sm:justify-center">
         <a
