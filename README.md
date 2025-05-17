@@ -1,5 +1,3 @@
-# Project Title
-[O-Market](https://online-marketplace-sepia.vercel.app/home)
 
 ## Description
 - O-Market serves as an online marketplace, offering a platform where both sellers and buyers can engage in transactions.
